@@ -1,0 +1,15 @@
+/Users/kieranmahony/Projects/mcm-task-hub/TaskHub/bin/Debug/net7.0/TaskHub
+/Users/kieranmahony/Projects/mcm-task-hub/TaskHub/bin/Debug/net7.0/TaskHub.deps.json
+/Users/kieranmahony/Projects/mcm-task-hub/TaskHub/bin/Debug/net7.0/TaskHub.runtimeconfig.json
+/Users/kieranmahony/Projects/mcm-task-hub/TaskHub/bin/Debug/net7.0/TaskHub.dll
+/Users/kieranmahony/Projects/mcm-task-hub/TaskHub/bin/Debug/net7.0/TaskHub.pdb
+/Users/kieranmahony/Projects/mcm-task-hub/TaskHub/obj/Debug/net7.0/TaskHub.csproj.AssemblyReference.cache
+/Users/kieranmahony/Projects/mcm-task-hub/TaskHub/obj/Debug/net7.0/TaskHub.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kieranmahony/Projects/mcm-task-hub/TaskHub/obj/Debug/net7.0/TaskHub.AssemblyInfoInputs.cache
+/Users/kieranmahony/Projects/mcm-task-hub/TaskHub/obj/Debug/net7.0/TaskHub.AssemblyInfo.cs
+/Users/kieranmahony/Projects/mcm-task-hub/TaskHub/obj/Debug/net7.0/TaskHub.csproj.CoreCompileInputs.cache
+/Users/kieranmahony/Projects/mcm-task-hub/TaskHub/obj/Debug/net7.0/TaskHub.dll
+/Users/kieranmahony/Projects/mcm-task-hub/TaskHub/obj/Debug/net7.0/refint/TaskHub.dll
+/Users/kieranmahony/Projects/mcm-task-hub/TaskHub/obj/Debug/net7.0/TaskHub.pdb
+/Users/kieranmahony/Projects/mcm-task-hub/TaskHub/obj/Debug/net7.0/TaskHub.genruntimeconfig.cache
+/Users/kieranmahony/Projects/mcm-task-hub/TaskHub/obj/Debug/net7.0/ref/TaskHub.dll
